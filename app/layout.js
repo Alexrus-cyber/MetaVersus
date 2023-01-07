@@ -5,6 +5,7 @@ const RootLayout = ({ children }) => (
     <head>
       <link rel="preconnect" href="https://stijndv.com" />
       <link rel="stylesheet" href="https://stijndv.com/fonts/Eudoxus-Sans.css" />
+      <title>MetaVersus</title>
     </head>
     <body>{children}</body>
   </html>
